@@ -1,0 +1,3124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="501pt"
+   height="685pt"
+   viewBox="0 0 626.25 856.24999"
+   id="svg3764"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="full_with_zoomed_regions_p2-ink.svg"
+   inkscape:export-filename="/home/wwaldron/Downloads/full_with_zoomed_regions_p2.png"
+   inkscape:export-xdpi="149.99124"
+   inkscape:export-ydpi="149.99124">
+  <defs
+     id="defs3766">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker30828"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path30826"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker30080"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path30078"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker20542"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path20540"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker75586"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path75588"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker22301"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22303"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7221"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7223"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6761"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6763"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11310"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11312"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9658"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9660"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8862"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8864"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27299"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path27301"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker26797"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26799"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker26301"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26303"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker25811"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path25813"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker25327"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path25329"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker24849"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path24851"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker24377"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path24379"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker23911"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path23913"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker23451"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path23453"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker22997"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22999"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker22549"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22551"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker21659"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21661"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker21229"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21231"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker20805"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path20807"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker20387"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path20389"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker19975"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19977"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker19569"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19571"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker19169"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19171"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker18775"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path18777"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker18387"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path18389"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker18005"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path18007"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker17629"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17631"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12394"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path12396"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11666"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11668"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11314"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11316"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10968"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10970"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10628"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10630"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10294"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10296"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9966"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9968"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9644"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9646"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9328"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9330"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9018"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9020"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8714"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8716"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8404"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8406"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7826"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7828"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7546"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7548"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7272"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7274"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7004"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7006"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6742"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6744"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6486"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6488"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6236"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6238"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5992"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5994"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5754"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5756"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5522"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5524"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker16092"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16094"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker15432"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path15434"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker13487"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path13489"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker13101"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path13103"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11281"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11283"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10943"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path10945"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7549"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7551"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7259"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7261"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6773"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6775"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6531"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6533"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6080"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6082"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5886"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5888"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9408"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9410"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9180"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9182"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8716"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8718"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8618"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8620"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       id="clipPath4445"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4447"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4457"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4459"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4511"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4513"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4523"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4525"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath8494"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8496"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath8506"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8508"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath8560"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8562"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath8572"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8574"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9056"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9058"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9068"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9070"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9122"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9124"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9134"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9136"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5653"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5655"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5665"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5667"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5791"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5793"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5803"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5805"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6363"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6365"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6375"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6377"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6464"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6466"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6476"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6478"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7156"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7158"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7168"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7170"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7222"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7224"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7234"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7236"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath8190"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8192"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath8202"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8204"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9192"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9194"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9204"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9206"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10056"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10058"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10068"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10070"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11708"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11710"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11720"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11722"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath12614"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12616"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath12626"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12628"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15137"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path15139"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15149"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path15151"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15395"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path15397"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15407"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path15409"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3724"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3726"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3736"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3738"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3809"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3821"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3823"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3875"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3877"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3887"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3889"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3941"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3943"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3953"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3955"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4007"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4009"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4019"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4021"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4073"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4075"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4085"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4087"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4139"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4141"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4151"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4153"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4205"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4207"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4217"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4219"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4271"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4273"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4283"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4285"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4337"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4339"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4349"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4351"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4403"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4405"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4415"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4417"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4469"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4471"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4481"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4483"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath16506"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16508"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath16518"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16520"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath16932"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16934"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath16944"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16946"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath16998"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17000"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17010"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17012"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17064"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17066"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17076"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17078"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17130"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17132"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17142"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17144"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17196"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17198"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17208"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17210"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17262"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17264"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17274"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17276"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17328"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17330"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17340"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17342"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17394"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17396"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17406"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17408"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17460"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17462"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17472"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17474"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17526"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17528"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17538"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17540"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17592"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17594"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath17604"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17606"
+         d="M 0,0 H 9000 V 9000 H 0 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6020">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffe1;stroke-width:1.33196795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6022"
+         width="51.521557"
+         height="51.521599"
+         x="4818.2788"
+         y="-851.82349" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6063">
+      <rect
+         y="-1874.4327"
+         x="5166.4453"
+         height="106.19607"
+         width="106.19621"
+         id="rect6065"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.53846097;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9333-10"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9335-6" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9667-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9669-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath84271">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect84273"
+         width="69.868095"
+         height="69.86792"
+         x="3849.3625"
+         y="-1487.751" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8054">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8056"
+         width="100"
+         height="100.00009"
+         x="420.375"
+         y="631.23712" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8062">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.5, 1.25, 0.625, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8064"
+         width="100"
+         height="100.00009"
+         x="420.375"
+         y="631.23712" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8072">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.5, 1.25, 0.625, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8074"
+         width="100"
+         height="99.999763"
+         x="525.625"
+         y="631.23743" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8080">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8082"
+         width="100"
+         height="99.999329"
+         x="104.625"
+         y="736.48785" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8088">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.5, 1.25, 0.625, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8090"
+         width="100"
+         height="99.999329"
+         x="104.625"
+         y="736.48785" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8141">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.5, 1.25, 0.625, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8143"
+         width="100"
+         height="99.99955"
+         x="209.875"
+         y="736.48767" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8170">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8172"
+         width="100"
+         height="99.999763"
+         x="420.375"
+         y="736.48743" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8187">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8189"
+         width="100"
+         height="100.00008"
+         x="525.625"
+         y="736.48712" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8219">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.5, 1.25, 0.625, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8221"
+         width="99.999992"
+         height="99.999771"
+         x="-0.625"
+         y="841.73743" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8237">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8239"
+         width="100"
+         height="99.999748"
+         x="105"
+         y="841.73749" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8284">
+      <rect
+         y="841.73737"
+         x="420.375"
+         height="99.999825"
+         width="100"
+         id="rect8286"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8290">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.5, 1.25, 0.625, 1.25;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8292"
+         width="100"
+         height="99.999825"
+         x="420.375"
+         y="841.73737" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2077">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#000b00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2079"
+         width="99.999992"
+         height="99.999992"
+         x="104.625"
+         y="525.98718" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2762">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#000b00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2764"
+         width="99.999992"
+         height="99.999992"
+         x="209.875"
+         y="525.98718" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2768">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#000b00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2770"
+         width="99.999992"
+         height="99.999992"
+         x="209.875"
+         y="525.98718" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2309">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2311"
+         width="121.25"
+         height="121.07125"
+         x="21.031158"
+         y="527.46375" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1858">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1860"
+         width="121.25"
+         height="121.25"
+         x="526.03119"
+         y="527.28497" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6249">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6251"
+         width="121.25"
+         height="121.25"
+         x="273.53116"
+         y="653.53497" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7411">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7413"
+         width="121.25"
+         height="121.25"
+         x="399.78116"
+         y="653.53497" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10732">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect10734"
+         width="121.25"
+         height="121.25"
+         x="21.031158"
+         y="779.78497" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11994">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11996"
+         width="121.25"
+         height="121.25"
+         x="147.28116"
+         y="779.78497" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17152">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect17154"
+         width="121.25"
+         height="121.25"
+         x="21.031158"
+         y="906.03497" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18480">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect18482"
+         width="121.25"
+         height="121.25"
+         x="147.28116"
+         y="906.03497" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27011">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect27013"
+         width="99.999992"
+         height="99.999992"
+         x="231.53116"
+         y="1032.285" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.63368028"
+     inkscape:cx="-279.3544"
+     inkscape:cy="348.70615"
+     inkscape:document-units="pt"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="pt"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3772"
+       units="pt"
+       spacingx="1.25"
+       spacingy="1.25"
+       originx="-21.031169"
+       originy="331.17276" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3769">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Will Waldron</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.031158,-527.28497)"
+     sodipodi:insensitive="true"
+     style="opacity:1">
+    <g
+       id="g1807"
+       transform="translate(2.9723969e-5,-22.500061)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region40.png"
+         id="image26696"
+         x="526.03113"
+         y="1284.785"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region40.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="601.89545"
+         y="1328.0981"
+         id="text1808"><tspan
+           sodipodi:role="line"
+           id="tspan1806"
+           x="601.89545"
+           y="1328.0981"
+           style="fill:#00ffff;fill-opacity:1;stroke-width:0.93749994">C15*</tspan></text>
+      <text
+         id="text1802"
+         y="1302.1338"
+         x="533.09113"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.93749994"
+           y="1302.1338"
+           x="533.09113"
+           id="tspan1800"
+           sodipodi:role="line">40</tspan></text>
+    </g>
+    <g
+       id="g1798"
+       transform="translate(-6.5269607e-7,-22.500061)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region39.png"
+         id="image26634"
+         x="399.78116"
+         y="1284.785"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region39.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="483.42108"
+         y="1326.5292"
+         id="text1800"><tspan
+           sodipodi:role="line"
+           id="tspan1798"
+           x="483.42108"
+           y="1326.5292"
+           style="fill:#00ffff;fill-opacity:1;stroke-width:0.93749994">C9</tspan></text>
+      <text
+         id="text1793"
+         y="1301.9825"
+         x="405.97488"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.93749994"
+           y="1301.9825"
+           x="405.97488"
+           id="tspan1791"
+           sodipodi:role="line">39</tspan></text>
+    </g>
+    <g
+       id="g1789"
+       transform="translate(-5.1178271e-7,-22.500061)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region38.png"
+         id="image26572"
+         x="273.53116"
+         y="1284.785"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region38.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="304.71622"
+         y="1331.6925"
+         id="text1794"><tspan
+           sodipodi:role="line"
+           id="tspan1792"
+           x="304.71622"
+           y="1331.6925"
+           style="fill:#00ffff;fill-opacity:1;stroke-width:0.93749994">C5</tspan></text>
+      <text
+         id="text1784"
+         y="1301.9825"
+         x="279.72491"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.93749994"
+           y="1301.9825"
+           x="279.72491"
+           id="tspan1782"
+           sodipodi:role="line">38</tspan></text>
+    </g>
+    <g
+       id="g1780"
+       transform="translate(-3.708694e-7,-22.500061)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region37.png"
+         id="image26510"
+         x="147.28116"
+         y="1284.785"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region37.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="226.67508"
+         y="1332.4323"
+         id="text1788"><tspan
+           sodipodi:role="line"
+           id="tspan1786"
+           x="226.67508"
+           y="1332.4323"
+           style="fill:#00ffff;fill-opacity:1;stroke-width:0.93749994">C4</tspan></text>
+      <text
+         id="text1775"
+         y="1301.9825"
+         x="153.4749"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.93749994"
+           y="1301.9825"
+           x="153.4749"
+           id="tspan1773"
+           sodipodi:role="line">37</tspan></text>
+    </g>
+    <g
+       id="g1771"
+       transform="translate(-2.2995605e-7,-22.500061)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region36.png"
+         id="image26448"
+         x="21.031158"
+         y="1284.785"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region36.png" />
+      <text
+         id="text1766"
+         y="1301.9825"
+         x="27.224907"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.93749994"
+           y="1301.9825"
+           x="27.224907"
+           id="tspan1764"
+           sodipodi:role="line">36</tspan></text>
+    </g>
+    <g
+       id="g1762"
+       transform="translate(2.9723969e-5,-18.750061)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region35.png"
+         id="image26386"
+         x="526.03113"
+         y="1158.535"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region35.png" />
+      <text
+         id="text1757"
+         y="1175.7325"
+         x="532.22491"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';stroke-width:0.93749994"
+           y="1175.7325"
+           x="532.22491"
+           id="tspan1755"
+           sodipodi:role="line">35</tspan></text>
+    </g>
+    <g
+       id="g1753"
+       inkscape:label="g1753"
+       transform="translate(-6.5269607e-7,-18.750061)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region34.png"
+         id="image26324"
+         x="399.78116"
+         y="1158.535"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region34.png" />
+      <text
+         id="text1748"
+         y="1173.3676"
+         x="405.97488"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';stroke-width:0.93749994"
+           y="1173.3676"
+           x="405.97488"
+           id="tspan1746"
+           sodipodi:role="line">34</tspan></text>
+    </g>
+    <g
+       id="g1744"
+       transform="translate(-5.1178271e-7,-18.750061)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region33.png"
+         id="image26262"
+         x="273.53116"
+         y="1158.535"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region33.png" />
+      <text
+         id="text1739"
+         y="1175.8838"
+         x="280.37115"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.93749994"
+           y="1175.8838"
+           x="280.37115"
+           id="tspan1737"
+           sodipodi:role="line">33</tspan></text>
+    </g>
+    <g
+       id="g1735"
+       transform="translate(-3.708694e-7,-18.750061)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region32.png"
+         id="image26200"
+         x="147.28116"
+         y="1158.535"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region32.png" />
+      <text
+         id="text1730"
+         y="1175.8838"
+         x="154.12115"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.93749994"
+           y="1175.8838"
+           x="154.12115"
+           id="tspan1728"
+           sodipodi:role="line">32</tspan></text>
+    </g>
+    <g
+       id="g31629"
+       transform="matrix(1.2125,0,0,1.2125,-642.54728,-111.86063)"
+       sodipodi:insensitive="true">
+      <image
+         width="100"
+         height="100"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region31.png"
+         id="image3185"
+         x="547.28119"
+         y="1032.285"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region31.png" />
+      <text
+         id="text2204"
+         y="1046.5933"
+         x="552.92242"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.34020615px;stroke-width:0.9375"
+           y="1046.5933"
+           x="552.92242"
+           id="tspan2202"
+           sodipodi:role="line">31</tspan></text>
+    </g>
+    <g
+       id="g30050"
+       transform="matrix(1.2125,0,0,1.2125,-9.931622,-234.36063)"
+       sodipodi:insensitive="true">
+      <image
+         width="100"
+         height="100"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region30.png"
+         id="image3174"
+         x="442.03116"
+         y="1032.285"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region30.png" />
+      <text
+         id="text2200"
+         y="1046.5933"
+         x="447.67239"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:11.34020615px;stroke-width:0.9375"
+           y="1046.5933"
+           x="447.67239"
+           id="tspan2198"
+           sodipodi:role="line">30</tspan></text>
+    </g>
+    <g
+       id="g30068"
+       transform="matrix(1.2125,0,0,1.2125,-8.5659968,-234.36063)"
+       sodipodi:insensitive="true">
+      <image
+         width="100"
+         height="100"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region29.png"
+         id="image3163"
+         x="336.78116"
+         y="1032.285"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region29.png" />
+      <text
+         id="text2192"
+         y="1046.5933"
+         x="342.32031"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.34020615px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';stroke-width:0.9375"
+           y="1046.5933"
+           x="342.32031"
+           id="tspan2190"
+           sodipodi:role="line">29</tspan></text>
+    </g>
+    <g
+       id="g27021"
+       transform="matrix(1.2125,0,0,1.2125,-7.2003717,-234.36063)"
+       sodipodi:insensitive="true">
+      <image
+         width="100"
+         height="100"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region28.png"
+         id="image3152"
+         x="231.53116"
+         y="1032.285"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region28.png" />
+      <text
+         id="text2188"
+         y="1046.5933"
+         x="237.07033"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.34020615px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';stroke-width:0.9375"
+           y="1046.5933"
+           x="237.07033"
+           id="tspan2186"
+           sodipodi:role="line">28</tspan></text>
+    </g>
+    <g
+       id="g25522"
+       transform="matrix(1.2125,0,0,1.2125,-5.8347465,-234.36063)"
+       sodipodi:insensitive="true">
+      <image
+         width="100"
+         height="100"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region27.png"
+         id="image3141"
+         x="126.28116"
+         y="1032.285"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region27.png" />
+      <text
+         id="text2184"
+         y="1046.4685"
+         x="131.51414"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.34020615px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';stroke-width:0.9375"
+           y="1046.4685"
+           x="131.51414"
+           id="tspan2182"
+           sodipodi:role="line">27</tspan></text>
+    </g>
+    <g
+       id="g24072"
+       transform="matrix(1.2125,0,0,1.2125,-4.4691214,-234.36063)"
+       sodipodi:insensitive="true">
+      <image
+         width="100"
+         height="100"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region26.png"
+         id="image3130"
+         x="21.031158"
+         y="1032.285"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region26.png" />
+      <text
+         id="text2180"
+         y="1046.4685"
+         x="26.264149"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.34020615px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';stroke-width:0.9375"
+           y="1046.4685"
+           x="26.264149"
+           id="tspan2178"
+           sodipodi:role="line">26</tspan></text>
+    </g>
+    <g
+       id="g22646"
+       transform="translate(-3.1311188e-5,-11.25)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region25.png"
+         id="image3119"
+         x="526.03119"
+         y="906.03497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region25.png" />
+      <text
+         id="text2196"
+         y="923.23248"
+         x="532.37616"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';stroke-width:0.9375"
+           y="923.23248"
+           x="532.37616"
+           id="tspan2194"
+           sodipodi:role="line">25</tspan></text>
+    </g>
+    <g
+       id="g21244"
+       transform="translate(-6.5269607e-7,-11.25)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region24.png"
+         id="image3108"
+         x="399.78116"
+         y="906.03497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region24.png" />
+      <text
+         id="text2176"
+         y="923.53503"
+         x="406.49741"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';stroke-width:0.9375"
+           y="923.53503"
+           x="406.49741"
+           id="tspan2174"
+           sodipodi:role="line">24</tspan></text>
+    </g>
+    <g
+       id="g19866"
+       transform="translate(-5.1178271e-7,-11.25)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region23.png"
+         id="image3097"
+         x="273.53116"
+         y="906.03497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region23.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="363.63907"
+         y="977.12128"
+         id="text1782"><tspan
+           sodipodi:role="line"
+           id="tspan1780"
+           x="363.63907"
+           y="977.12128"
+           style="fill:#00ffff;fill-opacity:1;stroke-width:0.93749994">C8*</tspan></text>
+      <text
+         id="text2172"
+         y="923.38379"
+         x="280.24741"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="923.38379"
+           x="280.24741"
+           id="tspan2170"
+           sodipodi:role="line">23</tspan></text>
+    </g>
+    <g
+       id="g18489"
+       transform="translate(-3.708694e-7,-11.25)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region22.png"
+         id="image3086"
+         x="147.28116"
+         y="906.03497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region22.png" />
+      <text
+         id="text2168"
+         y="923.53503"
+         x="156.49741"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="923.53503"
+           x="156.49741"
+           id="tspan2166"
+           sodipodi:role="line">22</tspan></text>
+    </g>
+    <g
+       id="g17162"
+       transform="translate(-2.2995605e-7,-11.25)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region21.png"
+         id="image3075"
+         x="21.031158"
+         y="906.03497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region21.png" />
+      <text
+         id="text2164"
+         y="923.53503"
+         x="27.747408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="923.53503"
+           x="27.747408"
+           id="tspan2162"
+           sodipodi:role="line">21</tspan></text>
+    </g>
+    <g
+       id="g15830"
+       transform="translate(-3.1311188e-5,-7.5000001)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region20.png"
+         id="image3064"
+         x="526.03119"
+         y="779.78497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region20.png" />
+      <text
+         id="text2160"
+         y="796.98248"
+         x="532.37616"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';stroke-width:0.9375"
+           y="796.98248"
+           x="532.37616"
+           id="tspan2158"
+           sodipodi:role="line">20</tspan></text>
+    </g>
+    <g
+       id="g14536"
+       transform="translate(-6.5269607e-7,-7.5000001)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region19.png"
+         id="image3053"
+         x="399.78116"
+         y="779.78497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region19.png" />
+      <text
+         id="text2156"
+         y="797.13379"
+         x="406.11243"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="797.13379"
+           x="406.11243"
+           id="tspan2154"
+           sodipodi:role="line">19</tspan></text>
+    </g>
+    <g
+       id="g13275"
+       transform="translate(-5.1178271e-7,-7.5000001)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region18.png"
+         id="image3042"
+         x="273.53116"
+         y="779.78497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region18.png" />
+      <text
+         id="text2152"
+         y="796.98248"
+         x="279.42242"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';stroke-width:0.9375"
+           y="796.98248"
+           x="279.42242"
+           id="tspan2150"
+           sodipodi:role="line">18</tspan></text>
+    </g>
+    <g
+       id="g12005"
+       transform="translate(-3.708694e-7,-7.5000001)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region17.png"
+         id="image3031"
+         x="147.28116"
+         y="779.78497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region17.png" />
+      <text
+         id="text2148"
+         y="797.13379"
+         x="153.61241"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="797.13379"
+           x="153.61241"
+           id="tspan2146"
+           sodipodi:role="line">17</tspan></text>
+    </g>
+    <g
+       id="g10742"
+       transform="translate(-2.2995605e-7,-7.5000001)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region16.png"
+         id="image3020"
+         x="21.031158"
+         y="779.78497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region16.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="102.21613"
+         y="813.51422"
+         id="text1774"><tspan
+           sodipodi:role="line"
+           id="tspan1772"
+           x="102.21613"
+           y="813.51422"
+           style="fill:#00ffff;fill-opacity:1;stroke-width:0.93749994">C12</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="58.757202"
+         y="885.82251"
+         id="text1770"><tspan
+           sodipodi:role="line"
+           id="tspan1768"
+           x="58.757202"
+           y="885.82251"
+           style="fill:#00ffff;fill-opacity:1;stroke-width:0.93749994">C11*</tspan></text>
+      <text
+         id="text2144"
+         y="797.13379"
+         x="27.362408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="797.13379"
+           x="27.362408"
+           id="tspan2142"
+           sodipodi:role="line">16</tspan></text>
+    </g>
+    <g
+       id="g9109"
+       transform="translate(-3.1311188e-5,-3.75)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region15.png"
+         id="image3009"
+         x="526.03119"
+         y="653.53497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region15.png" />
+      <text
+         id="text2140"
+         y="670.88379"
+         x="532.36243"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="670.88379"
+           x="532.36243"
+           id="tspan2138"
+           sodipodi:role="line">15</tspan></text>
+    </g>
+    <g
+       id="g7420"
+       transform="translate(-6.5269607e-7,-3.75)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region14.png"
+         id="image2998"
+         x="399.78116"
+         y="653.53497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region14.png" />
+      <text
+         id="text2136"
+         y="668.36749"
+         x="405.67242"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';stroke-width:0.9375"
+           y="668.36749"
+           x="405.67242"
+           id="tspan2134"
+           sodipodi:role="line">14</tspan></text>
+    </g>
+    <g
+       id="g6261"
+       transform="translate(-5.1178271e-7,-3.75)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region13.png"
+         id="image2987"
+         x="273.53116"
+         y="653.53497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region13.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="350.03937"
+         y="770.51044"
+         id="text1762"><tspan
+           sodipodi:role="line"
+           id="tspan1760"
+           x="350.03937"
+           y="770.51044"
+           style="fill:#00ffff;fill-opacity:1;stroke-width:0.93749994">C7</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93749994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="352.65466"
+         y="671.651"
+         id="text1758"><tspan
+           sodipodi:role="line"
+           id="tspan1756"
+           x="352.65466"
+           y="671.651"
+           style="fill:#00ffff;fill-opacity:1;stroke-width:0.93749994">C6</tspan></text>
+      <text
+         id="text2132"
+         y="670.88379"
+         x="279.8624"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="670.88379"
+           x="279.8624"
+           id="tspan2130"
+           sodipodi:role="line">13</tspan></text>
+    </g>
+    <g
+       id="g5088"
+       transform="translate(-3.708694e-7,-3.75)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region12.png"
+         id="image2909"
+         x="147.28116"
+         y="653.53497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region12.png" />
+      <text
+         id="text2128"
+         y="671.03503"
+         x="153.61241"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="671.03503"
+           x="153.61241"
+           id="tspan2126"
+           sodipodi:role="line">12</tspan></text>
+    </g>
+    <g
+       id="g3439"
+       transform="translate(-2.2995605e-7,-3.75)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region11.png"
+         id="image2815"
+         x="21.031158"
+         y="653.53497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region11.png" />
+      <text
+         id="text2124"
+         y="671.03503"
+         x="27.362408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';stroke-width:0.9375"
+           y="671.03503"
+           x="27.362408"
+           id="tspan2122"
+           sodipodi:role="line">11</tspan></text>
+    </g>
+    <g
+       id="g2347"
+       transform="translate(-3.1311188e-5)"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region10.png"
+         id="image2753"
+         x="526.03119"
+         y="527.28497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region10.png" />
+      <text
+         id="text2120"
+         y="544.63373"
+         x="532.36243"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="544.63373"
+           x="532.36243"
+           id="tspan2118"
+           sodipodi:role="line">10</tspan></text>
+    </g>
+    <g
+       id="g4766"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region09.png"
+         id="image2691"
+         x="399.78116"
+         y="527.28497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region09.png" />
+      <text
+         id="text2116"
+         y="544.63379"
+         x="406.62115"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="544.63379"
+           x="406.62115"
+           id="tspan2114"
+           sodipodi:role="line">9</tspan></text>
+    </g>
+    <g
+       id="g3729"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region08.png"
+         id="image2629"
+         x="273.53116"
+         y="527.28497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region08.png" />
+      <text
+         id="text2112"
+         y="544.63373"
+         x="280.37115"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="544.63373"
+           x="280.37115"
+           id="tspan2110"
+           sodipodi:role="line">8</tspan></text>
+    </g>
+    <g
+       id="g2704"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region07.png"
+         id="image2567"
+         x="147.28116"
+         y="527.28497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region07.png" />
+      <text
+         id="text2108"
+         y="544.63373"
+         x="153.90115"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9375"
+           y="544.63373"
+           x="153.90115"
+           id="tspan2106"
+           sodipodi:role="line">7</tspan></text>
+    </g>
+    <g
+       id="g2319"
+       sodipodi:insensitive="true">
+      <image
+         width="121.25"
+         height="121.25"
+         preserveAspectRatio="none"
+         xlink:href="file:///home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region06.png"
+         id="image1673"
+         x="21.031158"
+         y="527.28497"
+         sodipodi:absref="/home/wwaldron/DoctoralResearch/Images/ESO_137-001/MAST_DATA/WaldronPipeline/PaperImages/MyComposite/Region06.png" />
+      <text
+         id="text2104"
+         y="544.63379"
+         x="27.871159"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:13.75px;stroke-width:0.9375"
+           y="544.63379"
+           x="27.871159"
+           id="tspan2102"
+           sodipodi:role="line">6</tspan></text>
+    </g>
+  </g>
+</svg>
