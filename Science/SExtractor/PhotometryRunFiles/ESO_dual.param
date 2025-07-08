@@ -1,0 +1,35 @@
+NUMBER                   Running object number
+X_IMAGE                  Object position along x                                   [pixel]
+Y_IMAGE                  Object position along y                                   [pixel]
+A_IMAGE                  Profile RMS along major axis                              [pixel]
+B_IMAGE                  Profile RMS along minor axis                              [pixel]
+THETA_IMAGE              Position angle (CCW/x)                                    [deg]
+X_WORLD                  Barycenter position along world x axis                    [deg]
+Y_WORLD                  Barycenter position along world y axis                    [deg]
+A_WORLD                  Profile RMS along major axis (world units)                [deg]
+B_WORLD                  Profile RMS along minor axis (world units)                [deg]
+THETA_WORLD              Position angle (CCW/world-x)                              [deg]
+KRON_RADIUS              Kron apertures in units of A or B
+FLUX_ISO                 Isophotal flux                                            [count]
+FLUXERR_ISO
+MAG_ISO                  Isophotal magnitude                                       [mag]
+MAGERR_ISO               RMS error for isophotal magnitude                         [mag]
+FLUX_ISOCOR              Corrected isophotal flux                                  [count]
+FLUXERR_ISOCOR
+MAG_ISOCOR               Corrected isophotal magnitude                             [mag]
+MAGERR_ISOCOR            RMS error for corrected isophotal magnitude               [mag]
+FLUX_AUTO                Flux within a Kron-like elliptical aperture               [count]
+FLUXERR_AUTO
+MAG_AUTO                 Kron-like elliptical aperture magnitude                   [mag]
+MAGERR_AUTO              RMS error for AUTO magnitude                              [mag]
+FLUX_BEST                Best of FLUX_AUTO and FLUX_ISOCOR                         [count]
+FLUXERR_BEST
+MAG_BEST                 Best of MAG_AUTO and MAG_ISOCOR                           [mag]
+MAGERR_BEST              RMS error for MAG_BEST                                    [mag]
+FLUX_APER(1)             #Flux vector within fixed circular aperture(s)             [count]
+FLUXERR_APER(1)          #RMS error vector for aperture flux(es)                    [count]
+MAG_APER(1)              #Fixed aperture magnitude vector                           [mag]
+MAGERR_APER(1)           #RMS error vector for fixed aperture mag.                  [mag]
+SNR_WIN                  Gaussian-weighted SNR
+BACKGROUND               Background at centroid position                           [count]
+THRESHOLD                Detection threshold above background                      [count]
