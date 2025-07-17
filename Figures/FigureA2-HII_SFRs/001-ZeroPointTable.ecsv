@@ -1,0 +1,48 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: index, datatype: int64}
+# - {name: PhotFlam, unit: erg / (Angstrom s cm2), datatype: float64}
+# - {name: PhotPlam, unit: Angstrom, datatype: float64}
+# - {name: ZP_AB, unit: mag(AB / ct), datatype: float64}
+# - {name: ZP_ST, unit: mag(ST / ct), datatype: float64}
+# - {name: GalExt, unit: mag, datatype: float64}
+# - {name: ApCor, unit: mag, datatype: float64}
+# - {name: KCor, unit: mag, datatype: float64}
+# - {name: DrizCor, datatype: float64}
+# meta: !!omap
+# - __serialized_columns__:
+#     ApCor:
+#       __class__: astropy.units.quantity.Quantity
+#       unit: &id001 !astropy.units.Unit {unit: mag}
+#       value: !astropy.table.SerializedColumn {name: ApCor}
+#     GalExt:
+#       __class__: astropy.units.quantity.Quantity
+#       unit: *id001
+#       value: !astropy.table.SerializedColumn {name: GalExt}
+#     KCor:
+#       __class__: astropy.units.quantity.Quantity
+#       unit: *id001
+#       value: !astropy.table.SerializedColumn {name: KCor}
+#     PhotFlam:
+#       __class__: astropy.units.quantity.Quantity
+#       unit: !astropy.units.Unit {unit: erg / (Angstrom s cm2)}
+#       value: !astropy.table.SerializedColumn {name: PhotFlam}
+#     PhotPlam:
+#       __class__: astropy.units.quantity.Quantity
+#       unit: !astropy.units.Unit {unit: Angstrom}
+#       value: !astropy.table.SerializedColumn {name: PhotPlam}
+#     ZP_AB:
+#       __class__: astropy.units.function.logarithmic.Magnitude
+#       unit: !astropy.units.Unit {unit: mag(AB / ct)}
+#       value: !astropy.table.SerializedColumn {name: ZP_AB}
+#     ZP_ST:
+#       __class__: astropy.units.function.logarithmic.Magnitude
+#       unit: !astropy.units.Unit {unit: mag(ST / ct)}
+#       value: !astropy.table.SerializedColumn {name: ZP_ST}
+# schema: astropy-2.0
+index PhotFlam PhotPlam ZP_AB ZP_ST GalExt ApCor KCor DrizCor
+275 3.18585e-18 2707.19995 24.171335 22.641937 1.158 0.11801889238976976 0.019457 0.5625
+475 1.819457e-19 4746.1621 26.060433 25.750146 0.689 0.100013 0.033213 0.48
+814 7.017474e-20 8044.9883 25.948921 26.784548 0.322 0.096447 0.004671 0.48
+160 1.92756e-20 15369.176 25.946227 28.18748 0.108 0.1143937264016878 0.022268 0.213018
